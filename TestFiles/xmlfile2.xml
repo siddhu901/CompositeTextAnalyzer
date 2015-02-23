@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<root>
+  <filename>../TextFinder1.cs</filename>
+  <time-date>10/6/2013 4:37:54 PM</time-date>
+  <Verison-no>1.0</Verison-no>
+  <description>No description yet!!</description>
+  <dependencies>
+    <dependency1>This is description-1</dependency1>
+    <dependency2>This is description-2</dependency2>
+    <dependency3>This is description-3</dependency3>
+  </dependencies>
+  <size>variable size!!</size>
+  <keywords>
+    <keyword1>abc</keyword1>
+    <keyword2>def</keyword2>
+    <keyword3>ghi</keyword3>
+  </keywords>
+</root>
